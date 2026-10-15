@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<films>
+    <film id="F001">
+        <titre>Inception</titre>
+        <realisateur>Christopher Nolan</realisateur>
+        <annee>2010</annee>
+        <duree>148</duree>
+        <genre>Science-fiction</genre>
+    </film>
+
+    <film id="F002">
+        <titre>Le Roi Lion</titre>
+        <realisateur>Roger Allers</realisateur>
+        <annee>1994</annee>
+        <duree>88</duree>
+        <genre>Animation</genre>
+    </film>
+
+    <film id="F003">
+        <titre>Interstellar</titre>
+        <realisateur>Christopher Nolan</realisateur>
+        <annee>2014</annee>
+        <duree>169</duree>
+        <genre>Science-fiction</genre>
+    </film>
+</films>
